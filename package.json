@@ -1,0 +1,21 @@
+{
+  "name": "staticresource",
+  "version": "1.0.0",
+  "description": "存储公共静态资源",
+  "main": "index.js",
+  "scripts": {
+    "push": "git add . && git commit -m 推送 && git push origin master",
+    "pull": "git fetch --all && git reset --hard origin/master && git pull origin master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bolawen/StaticResource.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bolawen/StaticResource/issues"
+  },
+  "homepage": "https://github.com/bolawen/StaticResource#readme"
+}
