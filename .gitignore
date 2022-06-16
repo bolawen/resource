@@ -1,0 +1,8 @@
+node_modules/
+
+image/privacy/*.png
+image/privacy/*.jpg
+image/privacy/*.jpeg
+
+video/privacy/*.mp4
+video/privacy/*.avi
